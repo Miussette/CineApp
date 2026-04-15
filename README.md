@@ -89,4 +89,4 @@ La aplicacion muestra el siguiente flujo en consola:
 
 ## Autor
 
-Miussette
+Champurria de Nóctulos
